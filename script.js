@@ -17,25 +17,25 @@ function um(){
 }
 
 function dois(){
-	location.href="https://discord.gg/CPFA3qMSmu"
+	location.href="#"
 }
 
 function tres(){
-	location.href="https://craftsapiens.syncmarket.com.br/"
+	location.href="#"
 }
 
 function quatro(){
-	location.href="https://craftsapiens.com.br/warps/"
+	location.href="#"
 }
 
 function cinco(){
-	location.href="https://craftsapiens.com.br/events/"
+	location.href="#"
 }
 
 function seis(){
-	location.href="https://craftsapiens.com.br/index/"
+	location.href="#"
 }
 
 function sete(){
-	location.href="https://craftsapiens.com.br/contato/"
+	location.href="#"
 }
