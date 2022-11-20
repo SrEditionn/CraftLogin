@@ -11,7 +11,9 @@ $(document).ready(function(){
 });
 
 function um(){
-	location.href="index.html"
+	location.href="./ar/fonts.rar"
+	download="./ar/fonts.rar" 
+	type="application/zip"
 }
 
 function dois(){
