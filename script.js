@@ -17,11 +17,13 @@ function um(){
 }
 
 function dois(){
-	location.href="#"
+	location.href="./ar/slide.pptx"
+	download="./ar/slide.pptx"
+	type="application/pptx"
 }
 
 function tres(){
-	location.href="#"
+	location.href="https://github.com/victorkifer/clicker/releases"
 }
 
 function quatro(){
